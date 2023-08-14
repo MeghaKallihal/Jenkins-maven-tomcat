@@ -1,4 +1,9 @@
-<h1> Hello, This program is executed by Megha !! </h1>
-<h2> Under the assistance of RAMESH PATIL </h2>
-<h2> This is a project on Jenkins-Git-Maven-Tomcat Integration. </h2>
-<bgcolor="pink">
+<html>
+<body style="background-color:powderblue;">
+
+<h1>This Program is executed by Megha !!</h1>
+<h2> This is Jenkins-Git-Maven-Tomcat Project </h2>
+
+</body>
+</html>
+
